@@ -13,9 +13,9 @@ public class A
         Console.Write(str);
     }
 
-    public static int strange(int x, int y)
+    public static int strange(int a, int y)
     {
-        return y + x;
+        return y + a;
     }
       public static int randomizer(int x, int y)
     {
