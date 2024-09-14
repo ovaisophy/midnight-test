@@ -17,4 +17,8 @@ public class A
     {
         return y + x;
     }
+      public static int randomizer(int x, int y)
+    {
+        return y + y;
+    }
 }
