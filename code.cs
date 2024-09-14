@@ -8,7 +8,7 @@ public class A
         num2 = 3;
         num3 = A.strange(num1, num2);
         num4 = A.strange(num3, num1);
-        num5 = A.strange(num2, num3);
+        num5 = A.strange(num1, num3);
         string str = "num3= " + num3 + " and num4= " + num4;
         Console.Write(str);
     }
