@@ -19,6 +19,6 @@ public class A
     }
       public static int randomizer(int x, int y)
     {
-        return y * y;
+        return y / y;
     }
 }
